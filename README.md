@@ -5,9 +5,9 @@ set of the problemset I have solved
 C++
 JAVA
 
-###MY ACCOUNTS:
-##codeforces: https://codeforces.com/profile/mahmoud_777
+#MY ACCOUNTS:
+#codeforces: https://codeforces.com/profile/mahmoud_777
 
-##virtual judge: https://vjudge.net/user/mahmoud777
+#virtual judge: https://vjudge.net/user/mahmoud777
 
-##Leetcode: https://leetcode.com/kodosinchire/
+#Leetcode: https://leetcode.com/kodosinchire/
